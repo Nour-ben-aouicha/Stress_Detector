@@ -6,7 +6,7 @@ This project offers real-time analysis of body language via a webcam feed, using
 #### Functionalities
 
 **Detection and Visualization:**
-- Utilizes MediaPipe's Holistic model to identify facial landmarks, hand gestures (both right and left), and body poses from the webcam frames; in this project we mainly targeted stress related gestures and facial expressions.
+- Utilizes MediaPipe's Holistic model to identify facial landmarks, hand gestures (both right and left), and body poses from the webcam frames.
 - Visualizes these detected landmarks on the frame using OpenCV's drawing functions, creating lines and points to represent facial features, hand movements, and body postures.
 
 **Landmark Data Collection:**
